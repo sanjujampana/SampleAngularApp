@@ -1,3 +1,6 @@
-# angular-gc1cya
+# My First Angular App
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-gc1cya)
+Made at Hack GTeeny!
+
+Access Link: (https://stackblitz.com/edit/angular-gc1cya)
+
